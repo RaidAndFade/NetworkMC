@@ -1,0 +1,8 @@
+{
+  "block.networker.network_inventory_interface_block": "Network Inventory Interface",
+  "block.networker.network_inventory_control_block": "Network Inventory Controller",
+  "block.networker.network_client_block": "Network Client",
+  "block.networker.network_relay_block": "Network Relay",
+  "item.networker.network_probe": "Network Probe",
+  "networker.networker_tab": "Networker"
+}

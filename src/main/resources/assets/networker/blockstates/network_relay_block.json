@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "networker:block/network_relay_block"
+    }
+  }
+}
